@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Callistemon_Citrinus_01.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Gleditsia_Triacanthos_B1.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_A1.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_B1.uasset filter=lfs diff=lfs merge=lfs -text
