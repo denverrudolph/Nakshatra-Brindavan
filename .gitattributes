@@ -5,3 +5,4 @@ Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Gleditsia_Triacanthos_B1.uasset 
 Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_A1.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_B1.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Assets/Foliage/Foliage01/Foliage_03/Trees/Mesh/SM_Manna_Ash.uasset filter=lfs diff=lfs merge=lfs -text
+Content/Assets/Foliage/Foliage01/Foliage_07/Mesh/SM_Murraya_Paniculata.uasset filter=lfs diff=lfs merge=lfs -text
