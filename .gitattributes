@@ -6,3 +6,8 @@ Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_A1.uasset filter=
 Content/Assets/Foliage/Foliage/Trees_01/Mesh/SM_Tilia_Europaea_B1.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Assets/Foliage/Foliage01/Foliage_03/Trees/Mesh/SM_Manna_Ash.uasset filter=lfs diff=lfs merge=lfs -text
 Content/Assets/Foliage/Foliage01/Foliage_07/Mesh/SM_Murraya_Paniculata.uasset filter=lfs diff=lfs merge=lfs -text
+Content/vehicle/Vehicle/vehBus_vehicle10/Texture/T_vehBus_vehicle10_AORM.uasset filter=lfs diff=lfs merge=lfs -text
+Content/vehicle/Vehicle/vehTruck_trailer01/Texture/T_vehTruck_trailer01_Grime.uasset filter=lfs diff=lfs merge=lfs -text
+Content/vehicle/Vehicle/vehTruck_vehicle11/Mesh/SM_Frame_Interior_vehTruck_vehicle11.uasset filter=lfs diff=lfs merge=lfs -text
+Content/vehicle/Vehicle/vehTruck_vehicle11/Texture/T_vehTruck_vehicle11_Grime.uasset filter=lfs diff=lfs merge=lfs -text
+Content/vehicle/Vehicle/vehTruck_vehicle11/Mesh/SM_vehTruck_vehicle11.uasset filter=lfs diff=lfs merge=lfs -text
